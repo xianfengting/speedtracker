@@ -24,7 +24,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 apply plugin: "com.github.hierynomus.license"
 
-version = '0.1'
+version = '0.1.1'
 group = 'site.srcres.speedtracker' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'speedtracker'
 
