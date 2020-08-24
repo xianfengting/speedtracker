@@ -1,0 +1,6 @@
+{
+  "speedtracker.unit.m_s.d": "%0$d m/s",
+  "speedtracker.unit.km_h.d": "%0$d km/h",
+  "speedtracker.unit.m_s.5f": "%0$.5f m/s",
+  "speedtracker.unit.km_h.5f": "%0$.5f km/h"
+}
